@@ -18,4 +18,5 @@ const res = (a, b) => a - b;
 const div = (a, b) => a / b;
 const mul = (a, b) => a * b;
 
-
+const rectangleArea = (b, h) => b * h;
+const triangleArea = (b, h) => (b * h / 2);
